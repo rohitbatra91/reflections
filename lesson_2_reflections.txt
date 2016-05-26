@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+.git file placed in directory. Starts tracking files. Only way to properly initialize a git repository.	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is place where files temporarily go before they are commmitted. Valuable to control the files that are tracked.
